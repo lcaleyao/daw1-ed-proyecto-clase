@@ -1,0 +1,12 @@
+ #En este documento vamos a añadir el listado de la compra.
+ #Los asistentes tienen que anotarse en el apartado.
+ 
+ - Aperitivo
+
+
+ - Bebidas
+
+ - Comida
+
+
+

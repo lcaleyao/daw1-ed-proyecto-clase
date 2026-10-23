@@ -1,0 +1,7 @@
+# En este fichero se van a añadir todos los alumnos
+# del módulo ED de 1 de DAW 2026-2027
+
+#Profesora
+1. Lurdes
+
+#Alumnos
