@@ -6,6 +6,7 @@
    Patatas fritas de paquete
    Aceitunas
    Doritos
+   Chochitos
 
  - Bebidas
  
@@ -14,11 +15,17 @@
    Vodka
    Ginebra melon
    Nestea limón
+   Cervecita
+   Agua PET 50cl 
+   Líquido de Frenos
+
 
  - Comida
 
     Tortilla de patatas
     Pollo asado
     Hamburguesas
+    Filete pollo
+    
 
 
