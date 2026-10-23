@@ -4,19 +4,25 @@
  - Aperitivo
 
    Patatas fritas de paquete
-   Aceitunas de anchoa
+   Aceitunas
    Doritos
+   Altramuces
 
  - Bebidas
  
    Coca cola 
    Fanta de Naranja
    Vodka
+   Ginebra melon
+   Nestea limón
+
 
  - Comida
 
     Tortilla de patatas
     Pollo asado
     Hamburguesas
+    Filete pollo
+    
 
 
