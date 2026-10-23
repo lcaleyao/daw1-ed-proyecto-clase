@@ -3,14 +3,17 @@
  
  - Aperitivo
 
-    Patatas fritas de paquete
+   Patatas fritas de paquete
+   Aceitunas de anchoa
 
  - Bebidas
  
-     Coca cola 
+   Coca cola 
+   Fanta de Naranja
 
  - Comida
 
     Tortilla de patatas
+    Pollo asado
 
 
