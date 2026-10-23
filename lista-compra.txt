@@ -5,15 +5,18 @@
 
    Patatas fritas de paquete
    Aceitunas de anchoa
+   Doritos
 
  - Bebidas
  
    Coca cola 
    Fanta de Naranja
+   Vodka
 
  - Comida
 
     Tortilla de patatas
     Pollo asado
+    Hamburguesas
 
 
