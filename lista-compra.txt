@@ -28,6 +28,7 @@
     Pollo asado
     Hamburguesas
     Filete pollo
+    Solomillo
     
 
 
